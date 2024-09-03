@@ -1,0 +1,11 @@
+/* src/components/Filter.css */
+
+.filter {
+    margin-bottom: 20px;
+  }
+  
+  .filter input, .filter button {
+    margin-right: 10px;
+    border-radius: 5px;
+  }
+  

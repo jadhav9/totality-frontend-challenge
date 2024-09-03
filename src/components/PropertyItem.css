@@ -1,0 +1,20 @@
+/* src/components/PropertyItem.css */
+
+.property-item {
+  background-color: #E9DFCF;
+  border: 1px solid #503B31;
+  padding: 15px;
+  border-radius: 5px;
+  text-align: center;
+  transition: transform 0.2s ease-in-out;
+}
+
+.property-item:hover {
+  transform: translateY(-5px);
+}
+
+.property-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}

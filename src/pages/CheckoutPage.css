@@ -1,0 +1,16 @@
+/* src/pages/CheckoutPage.css */
+
+.checkout-page {
+    padding: 20px;
+    background-color: #E9DFCF;
+    border-radius: 5px;
+  }
+  
+  .checkout-page h2 {
+    color: #503B31;
+  }
+  
+  .checkout-page form {
+    margin-top: 20px;
+  }
+  
